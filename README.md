@@ -1,5 +1,5 @@
 
-### **RECRIANDO A HOME PAGE DO INSTAGRAM**
+### **RECRIANDO A HOMEPAGE DO INSTAGRAM**
 
 ---
 Olá! Seja bem-vindo 
